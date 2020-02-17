@@ -1,0 +1,3 @@
+Esto es un fichero de prueba.
+
+Esta es la segunda linea del mismo fichero example.
