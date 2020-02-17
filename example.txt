@@ -1,3 +1,5 @@
 Esto es un fichero de prueba.
 
+codigo nuevisimo
+
 Esta es la segunda linea del mismo fichero example.
